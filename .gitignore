@@ -1,0 +1,3 @@
+# O .exe não é versionado no git.
+# Ele é distribuído como asset da GitHub Release (upload manual na aba Releases do GitHub).
+Controlle.exe
