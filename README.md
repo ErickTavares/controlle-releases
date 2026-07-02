@@ -12,6 +12,19 @@ Downloads oficiais do **Controlle** (controle financeiro pessoal para Windows).
 
 ## Novidades por versão
 
+### v1.1.5 — 01/07/2026
+- Reforço de segurança: dados vindos de fatura importada ou de backup restaurado agora são tratados com mais rigor antes de aparecer na tela.
+- Melhoria na importação de faturas do Santander (e bancos com formatação parecida), evitando valores quebrados na leitura do PDF.
+- Categorias de receita (ex: Salário) agora mostram o valor total recebido, não só a quantidade de lançamentos.
+- Na tela de Lançamentos, a lista de categorias agora mostra só as compatíveis com o tipo (Entrada ou Saída) selecionado.
+
+### v1.1.4 — 29/06/2026
+- Importação de faturas: corrigido um caso em que transações do lado direito de faturas com duas colunas (comum no Santander) não eram importadas.
+- Corrigido um problema em que limpar os dados do navegador podia desconectar a licença.
+
+### v1.1.3 — 14/06/2026
+- Corrigido o scroll em telas menores (notebooks) nas telas de Lançamentos, Despesas Fixas, Categorias e Cartão de Crédito.
+
 ### v1.1.2 — 13/06/2026
 - **Correção importante:** limpar os dados do navegador não desativa mais a sua licença.
 - Termos de Uso atualizados, com mais clareza sobre privacidade e uso de dados.
