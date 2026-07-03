@@ -12,6 +12,13 @@ Downloads oficiais do **Controlle** (controle financeiro pessoal para Windows).
 
 ## Novidades por versão
 
+### v1.1.6 — 03/07/2026
+- Novo tour guiado de boas-vindas, que apresenta as telas principais e já ajuda a configurar seu nome e o início do mês.
+- Na tela de Lançamentos, agora dá para buscar por texto e filtrar por data, categoria e subcategoria — com contador e total dos resultados.
+- No Cartão de crédito, é possível editar um lançamento direto pelo painel "Gastos por categoria" (data, valor, descrição, categoria e subcategoria).
+- Mês financeiro configurável: o ciclo do mês pode começar no dia do seu salário, não só no dia 1.
+- Refinamentos na importação de faturas e nos detalhes do cartão.
+
 ### v1.1.5 — 01/07/2026
 - Reforço de segurança: dados vindos de fatura importada ou de backup restaurado agora são tratados com mais rigor antes de aparecer na tela.
 - Melhoria na importação de faturas do Santander (e bancos com formatação parecida), evitando valores quebrados na leitura do PDF.
